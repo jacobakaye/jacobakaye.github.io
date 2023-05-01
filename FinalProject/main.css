@@ -1,0 +1,82 @@
+<head>
+  <style>
+    body {
+      font-family: 'Oswald', sans-serif;
+      max-width: 70rem;
+      margin-left: auto;
+      margin-right: auto;
+    }
+
+    div {
+      margin-top: 10px;
+      margin-right: 20px;
+      margin-bottom: 30px;
+      margin-left: 40px;
+    }
+
+    header {
+      background-color: darkgray;
+      font-size: 18px;
+      padding-top: 10px;
+      padding-bottom: 10px;
+      padding-left: 10%;
+      padding-right: 10%;
+      margin-bottom: 15px;
+    }
+
+    img {
+      max-width: 100%;
+      height: auto;
+    }
+
+    .caption {
+      font-size: 14px;
+      margin-left: 0px;
+      margin-right: 0px;
+      margin-top: 5px;
+    }
+
+    h1 {
+      font-size: 48px;
+      font-weight: 700;
+    }
+
+    h2 {
+      font-size: 32px;
+      font-weight: 500;
+    }
+
+    p {
+      font-size: 16px;
+      font-weight: 300;
+    }
+
+    blockquote {
+  font-size: 1.2rem;
+  margin: 1.5rem 0;
+  padding: 1rem;
+  border-left: 5px solid #007bff; /* change the color to your preference */
+  background-color: #f8f9fa; /* change the color to your preference */
+}
+
+blockquote p {
+  margin-bottom: 0;
+}
+
+blockquote footer {
+  margin-top: 1rem;
+  font-size: 0.8rem;
+  text-align: right;
+  color: #6c757d; /* change the color to your preference */
+}
+
+
+    .otherimg {
+      max-width: 50rem;
+      margin-left: auto;
+      margin-right: auto;
+      margin-top: 10px;
+      margin-bottom: 10px;
+    }
+  </style>
+</head>
